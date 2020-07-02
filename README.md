@@ -8,5 +8,5 @@
 - geopandas
 - matplotlib
 
-### OUtput:
-[![a](a "a")](https://github.com/rthway/Nepal-Population-Density-GIS--Python-Project-/blob/master/population_density.png?raw=true "a")
+### Otput:
+[!(https://github.com/rthway/Nepal-Population-Density-GIS--Python-Project-/blob/master/population_density.png)
